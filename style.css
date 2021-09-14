@@ -8,6 +8,14 @@ p.icons {
     color: purple;
 }
 
+img.rounded {
+  border-radius: 50%;
+}
+
+div {
+    width:40%;
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 p, h1, h2, h3, ul, a {
 font-family: 'Open Sans', sans-serif;
