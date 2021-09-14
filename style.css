@@ -9,6 +9,7 @@ body {
 p.icons {
     font-family: myFirstFont;
     color: #7d7d7d;
+    font-size: 20px;
 }
 
 img.rounded {
