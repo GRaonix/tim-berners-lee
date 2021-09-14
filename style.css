@@ -1,5 +1,5 @@
 body {
-  background-color: lightblue;
+  background-color: #ebebeb;
 }
 @font-face {
     font-family: myFirstFont;
@@ -18,7 +18,7 @@ img.rounded {
 div {
     background-color: white;
     margin: auto;
-    width:40%;
+    width:50%;
     border-radius: 4px;
 }
 
