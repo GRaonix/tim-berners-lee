@@ -7,3 +7,8 @@ p.icons {
     font-family: myFirstFont;
     color: purple;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+p {
+font-family: 'Open Sans', sans-serif;
+}
