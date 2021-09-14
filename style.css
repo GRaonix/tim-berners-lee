@@ -8,7 +8,7 @@ body {
   
 p.icons {
     font-family: myFirstFont;
-    color: grey;
+    color: #7d7d7d;
 }
 
 img.rounded {
@@ -20,6 +20,7 @@ img.rounded {
 
 div {
     background-color: white;
+    color: #7d7d7d;
     margin: auto;
     width:50%;
     border-radius: 4px;
@@ -34,6 +35,7 @@ h1 {
     text-align: center;
 h2
     {
+        color: #7d7d7d;
         text-align: center;
     }
 }
