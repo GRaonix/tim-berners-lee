@@ -13,6 +13,7 @@ p.icons {
 
 img.rounded {
   border-radius: 50%;
+  text-align: center;
 }
 
 div {
