@@ -10,6 +10,9 @@ p.icons {
     font-family: myFirstFont;
     color: #7d7d7d;
     font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 img.rounded {
@@ -45,6 +48,10 @@ h2
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
+      
+      display: flex;
+  align-items: center;
+  justify-content: center;
     }
 }
 .button {
@@ -62,7 +69,7 @@ h2
   
   
   position: absolute;
-  top: 50%;
+  
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
