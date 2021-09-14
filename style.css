@@ -5,7 +5,7 @@
   
 p.icons {
     font-family: myFirstFont;
-    color: purple;
+    color: grey;
 }
 
 img.rounded {
@@ -13,6 +13,7 @@ img.rounded {
 }
 
 div {
+    margin: auto;
     width:40%;
 }
 
@@ -20,9 +21,11 @@ div {
 p, h1, h2, h3, ul, a {
 font-family: 'Open Sans', sans-serif;
 }
-
+h1 {
+    color: #dd5555;
+}
 .button {
-  background-color: red;
+  background-color: #dd5555;
   border: none;
   color: white;
   padding: 15px 15px;
