@@ -20,6 +20,7 @@ img {
 }
 
 img.rounded {
+  max-width: auto;
   border-radius: 50%;
   display: block;
   margin-left: auto;
@@ -35,6 +36,7 @@ div {
     border-radius: 4px;
     padding: 25px;
     box-shadow: 2px 2px #dbdbdb;
+    font-size: 15px;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
