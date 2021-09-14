@@ -22,6 +22,10 @@ img.rounded {
   margin-right: auto;
 }
 
+img {
+  max-width: 20%; 
+}
+
 div {
     background-color: white;
     color: #7d7d7d;
