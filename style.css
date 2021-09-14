@@ -1,1 +1,9 @@
-
+@font-face {
+    font-family: myFirstFont;
+    src: url(socialico.ttf);
+}
+  
+h2 {
+    font-family: myFirstFont;
+    color: darkgreen;
+}
