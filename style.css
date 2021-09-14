@@ -27,6 +27,11 @@ font-family: 'Open Sans', sans-serif;
 }
 h1 {
     color: #dd5555;
+    text-align: center;
+h2
+    {
+        text-align: center;
+    }
 }
 .button {
   background-color: #dd5555;
