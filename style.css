@@ -3,7 +3,7 @@
     src: url(./socialico.ttf);
 }
   
-h2 {
+p.icons {
     font-family: myFirstFont;
     color: purple;
 }
