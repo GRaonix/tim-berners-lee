@@ -25,7 +25,7 @@ div {
     margin: auto;
     width:50%;
     border-radius: 4px;
-    box-shadow: 2px 2px #888888;
+    box-shadow: 2px 2px #dbdbdb;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
