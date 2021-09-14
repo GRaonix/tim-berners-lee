@@ -9,6 +9,6 @@ p.icons {
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
-p, h1, h2, h3 {
+p, h1, h2, h3, ul, a {
 font-family: 'Open Sans', sans-serif;
 }
